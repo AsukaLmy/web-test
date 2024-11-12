@@ -1,0 +1,30 @@
+/* A debug class, used to separate components graphically during development */
+.debug {
+    border-style:solid;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-left {
+    text-align: left;
+}
+
+/* .dish-item {
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+  
+.dish-item img {
+    display: block;
+    margin: 0 auto;
+}
+  
+.dish-item div {
+    margin-top: 5px;
+} */
+
